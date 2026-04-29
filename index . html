@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prime Key Realty</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f4f6f8;color:#222}
+header{background:#0f172a;color:#fff;padding:30px;text-align:center}
+main{max-width:900px;margin:auto;padding:30px}
+.card{background:#fff;padding:20px;border-radius:14px;box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.btn{display:inline-block;margin-top:15px;padding:12px 18px;background:#0f172a;color:#fff;text-decoration:none;border-radius:10px}
+</style>
+</head>
+<body>
+<header>
+<h1>Prime Key Real Estate & Consultancy Service</h1>
+<p>Trusted Property Solutions in Ernakulam</p>
+</header>
+<main>
+<div class="card">
+<h2>Welcome</h2>
+<p>This is a simple test homepage for Netlify deployment.</p>
+<p>If this page opens online, the hosting works correctly.</p>
+<a href="#" class="btn">Contact Us</a>
+</div>
+</main>
+</body>
+</html>
